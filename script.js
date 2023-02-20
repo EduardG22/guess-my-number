@@ -58,3 +58,4 @@ document.querySelector('.again').addEventListener('click', function () {
 // TEST //
 ///////////// TEST BRANCH /////////////
 ///////////// TEST GITHUB /////////////
+//////////// TEST FETCH //////////////
